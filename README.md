@@ -58,7 +58,7 @@ The report is built on a **star schema** with:
 
 ### Page 1 — Sales Overview
 
-![Sales Overview](./Screenshots/Sales Overview.png)
+![Sales Overview](Screenshots/Sales Overview.png)
 
 **KPI Cards:**
 - 📦 **14K** — Total Stock
@@ -77,7 +77,7 @@ The report is built on a **star schema** with:
 
 ### Page 2 — Profit Overview
 
-![Profit Overview](./Screenshots/Profit Overview.png)
+![Profit Overview](Screenshots/Profit Overview.png)
 
 **KPI Cards:**
 - 📈 **62.27%** — YTD Profit Margin
